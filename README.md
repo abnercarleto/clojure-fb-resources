@@ -8,6 +8,7 @@
   - [Clojure Cookbook](http://clojure-cookbook.com/)
 
 ## Palestras
+   -[Stuart Halloway: Introduction to Clojure](https://vimeo.com/68375202)
 
 ## Screencasts
 
