@@ -1,7 +1,7 @@
 
 ## Leitura
   - [Learn Clojure in Y minutes](https://learnxinyminutes.com/docs/clojure/)
-  - [Try Clojure (online REPL)](http://www.4clojure.com/)
+  - [Try Clojure (online REPL)](http://www.tryclj.com/)
   - [CLOJURE for the BRAVE and TRUE](http://www.braveclojure.com/getting-started/)
   - [4 Clojure](http://www.4clojure.com)
   - [Clojure Koans](http://clojurekoans.com/)
